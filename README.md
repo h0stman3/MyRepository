@@ -2,7 +2,7 @@
 [Author](#author) | [Description](#description) | [My studies](#my-studies) | [Online VS offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
 ## Author
-* **Name:** *Vladimir*  
+* **Name:** *Volodymyr*  
 * **Group:** *KN-125 DSG*  
 * **University:** *National Technical University “Kharkiv Polytechnic Institute”*  
 * **Date:** *3 November 2025*
@@ -10,8 +10,14 @@
 ## Description
 I am new to GitHub and I use this repo for my lab work: I practice commits, Markdown, LaTeX math, code blocks, and adding an image; my goal is to finish university well and build a stable life.
 
-## My studies
-I study higher mathematics: calculus, linear algebra, and analytic geometry;Only math and tryhard.
+## My favourite university subjects
+
+Currently my favourite subjects are:
+
+1. Calculus 
+2. Linear Algebra
+3. Analytic Geometry
+
 
 ## Online VS offline studying
 | Online | Offline |
@@ -39,7 +45,7 @@ Check it here: [Online C++ compiler](https://cpp.sh).
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, GitHub!" << std::endl;
+    cout << "Hello, GitHub!" << endl;
     return 0;
 }
 ```
