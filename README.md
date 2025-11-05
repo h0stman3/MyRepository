@@ -1,5 +1,5 @@
 # Quick references
-[Author](#author) | [Description](#description) | [My studies](#my-studies) | [Online VS offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
+[Author](#author) | [Description](#description) | [My favourite university subjects](#My-favourite-university-subjects) | [Online VS offline studying](#online-vs-offline-studying) | [My favorite math formulas](#my-favorite-math-formulas) | [My coding skills](#my-coding-skills) | [The image I like](#the-image-i-like)
 
 ## Author
 * **Name:** *Volodymyr*  
@@ -54,5 +54,6 @@ int main() {
 A place and time I would love to visit — it feels peaceful and cozy.
 
 ![Cozy medieval view](images/castle.jpg)
+
 
 
